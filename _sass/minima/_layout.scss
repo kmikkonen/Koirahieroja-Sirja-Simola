@@ -27,7 +27,7 @@
 
   @include media-query($title-two-line) {
     white-space: normal;
-    max-width: 125px;
+    max-width: 160px;
     line-height: $spacing-unit * 1.25;
   }
 
