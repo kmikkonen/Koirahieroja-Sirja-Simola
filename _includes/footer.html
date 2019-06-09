@@ -1,0 +1,39 @@
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+    <div class="wrapper">
+
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+        <div class="footer-col-wrapper">
+        <address class="footer-col footer-col-1">
+            <ul class="contact-list">
+            <li class="p-name">
+                {%- if site.company -%}
+                <i class="fas fa-address-card fa-fw fa-icon"></i>{{ site.company | escape }}
+                {%- else -%}
+                {{ site.title | escape }}
+                {%- endif -%}
+                </li>
+                {%- if site.company_id -%}
+                <li><i class="fas fa-tag fa-fw fa-icon"></i>Y-tunnus {{ site.company_id }}</li>
+                {%- endif -%}
+                {%- if site.email -%}
+                <li><a class="u-email" href="mailto:{{ site.email }}"><i class='fas fa-envelope fa-fw fa-icon'></i>{{ site.email }}</a></li>
+                {%- endif -%}
+                {%- if site.facebook_username -%}
+                <li><a href="https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}"><i class='fab fa-facebook-square fa-fw fa-icon'></i>{{ site.facebook_username }}</a></li>
+                {%- endif -%}
+                <!-- {%- include social.html -%} -->
+            </ul>
+        </address>
+        
+        <div class="footer-col footer-col-2">
+            <p>{{- site.description | escape -}}</p>
+            <p>Yrityksen graafinen suunnittelu: Emilia Lamppu</p>
+        </div>
+        </div>
+
+    </div>
+
+</footer>

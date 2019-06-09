@@ -1,0 +1,12 @@
+<div>
+	<div class="flexslider">
+		<ul class="slides">
+	  		{% for image in include.images %}
+	  		<li>
+                <img src="{{ image }}" alt="">
+	 		</li>
+	  		{% endfor %}
+		</ul>
+	</div>
+	<p class="image-caption">(Kuvat: Enni Peltola)</p>
+</div>
