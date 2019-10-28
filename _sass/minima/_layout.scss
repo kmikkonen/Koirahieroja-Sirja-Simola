@@ -72,7 +72,7 @@
     }
   }
 
-  @include media-query($on-palm) {
+  @include media-query($on-laptop) {
     position: absolute;
     top: 20px;
     right: $spacing-unit / 2;
@@ -238,6 +238,30 @@
   margin: 0 auto 30px !important;
 }
 
+.info-box {
+  background-color: #cfafc7;
+  border: 1px solid $grey-color-dark;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.info-box-header {
+  background-color: #9c5e8b;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.info-box-header > * {
+  margin: 0;
+}
+
+.info-box-content {
+  padding: 10px;
+
+  ul {
+    margin-bottom: 0;
+  }
+}
 
 /**
  * Posts

@@ -14,3 +14,5 @@ Hei, olen Sirja Simola, ja teen koirahierontaa kotikäynteinä pääkaupunkiseud
 Kotona minua ilahduttavat kolmen koiran lauma, chinchillat sekä kaksi kuningaspytonia. Koirahieronnan ohella minua kiinnostavat erityisesti koirien koulutus, koiran lajityypillisten tarpeiden huomioiminen arkielämässä, sekä luonnonmukainen ruokinta.
 
 Voit katsoa hinnaston sivulta [hinnasto](/hinnasto/) ja sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Facebook-sivujeni](https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}) kautta.
+
+Tietoa koirahieronnasta löydät [Tietoa koirahieronnasta](/info/)-sivulta.
