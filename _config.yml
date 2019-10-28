@@ -20,7 +20,7 @@ email: sirja.simola@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hyvinvointia ja hemmottelua koirallesi! Koirahierontaa kotikäynteinä pääkaupunkiseudulla.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://sirjasimola.fi" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sirjasimola.fi" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: koirahierojasirjasimola
 lang: fi
 

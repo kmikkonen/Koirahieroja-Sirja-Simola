@@ -17,9 +17,10 @@
   font-weight: 300;
   line-height: $spacing-unit * 2.5;
   letter-spacing: -1px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
   // Fix for iPad
   white-space: nowrap;
-  float: left;
   &,
   &:visited {
     color: white;
