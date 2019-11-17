@@ -4,7 +4,9 @@ title: Hinnasto
 permalink: /hinnasto/
 ---
 
-Koirahieronnat tapahtuvat kotikäynteinä pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat). 
+Alla oleva hinnasto koskee kotikäynteinä tehtyä koirahierontaa.
+
+Koirahieronnan kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat). 
 
 | Palvelu | Hinta |
 | Hieronta | **50€/koira** |
