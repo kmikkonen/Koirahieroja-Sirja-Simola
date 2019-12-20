@@ -13,6 +13,7 @@
 
 .site-title {
   @include relative-font-size(1.7);
+  display: inline-block;
   margin-left: $spacing-unit * 5;
   font-weight: 300;
   line-height: $spacing-unit * 2.5;
