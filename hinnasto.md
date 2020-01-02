@@ -4,7 +4,7 @@ title: Hinnasto
 permalink: /hinnasto/
 ---
 
-Alla oleva hinnasto koskee kotikäynteinä tehtyä koirahierontaa.
+Alla oleva hinnasto koskee koirahierontoja kotikäyntinä sekä koiraosteopaatti Hanna Kivisen tiloissa (Korppaanmäentie 27, Helsinki) tekemiäni hierontoja.
 
 Koirahieronnan kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat). 
 
@@ -15,7 +15,7 @@ Koirahieronnan kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, 
 
 Maksutapoina käyvät yleisimmät pankki- ja luottokortit sekä käteinen.
 
-Voit sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Facebook-sivujeni](https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}) kautta.
+Voit sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Facebook-sivujeni](https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}) kautta. Voit varata Korppaanmäentien toimitilassa tehtävän hieronnan osoitteesta <https://vello.fi/sirjasimola/>.
 
 Jos koirallasi on jokin sairaus, konsultoithan ensin eläinlääkäriä, ettei hieronnalle ole estettä. Alle vuorokauden varoitusajalla peruutetuista hieronnoista veloitan 50% hinnasta. 
 

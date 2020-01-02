@@ -19,6 +19,8 @@ Tietoa koirahieronnasta löydät [Tietoa koirahieronnasta](/info/)-sivulta.
 
 Voit katsoa kotikäyntien hinnaston sivulta [hinnasto](/hinnasto/) ja sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Facebook-sivujeni](https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}) kautta.
 
-Kotikäyntien lisäksi minulle voi varata aikoja Mustiin ja Mirriin Eastonin, Hakaniemen ja Stockmannin toimipisteisiin osoitteessa <https://www.mustijamirri.fi/hyvinvointipalvelut-ajanvaraus>
+Teen myös maanantaisin koirahierontoja koiraosteopaatti Hanna Kivisen toimitiloissa (Korppaanmäentie 27, Helsinki). Ajan sinne voi varata osoitteesta <https://vello.fi/sirjasimola/>. Lisätietoja esimerkiksi toimitiloihin saapumisesta ja pysäköinnistä voit katsoa koiraosteopaatti [Hanna Kivisen sivuilta](https://www.koiraosteopatia.fi/). 
+
+Yllämainittujen lisäksi minulle voi varata aikoja Mustiin ja Mirriin Eastonin, Hakaniemen ja Stockmannin toimipisteisiin osoitteessa <https://www.mustijamirri.fi/hyvinvointipalvelut-ajanvaraus>.
 
 ![Musti ja Mirri Logo](/assets/images/Musti_ja_Mirri_kaksirivinen_PMS369_valkoiset_naamat.png)
