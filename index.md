@@ -9,7 +9,7 @@ title: Esittely
 {% assign slider_images = "/assets/images/dola.jpg|/assets/images/bane.jpg|/assets/images/vegas.jpg" | split: "|" %}
 {% include image-slider.html images=slider_images %}
 
-Hei, olen Sirja Simola, ja teen koirahierontaa kotikäynteinä pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat) sekä Musti ja Mirri Eastonissa, Hakaniemessä ja Stockmannilla. 
+Hei, olen Sirja Simola, ja teen koirahierontaa kotikäynteinä pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat) sekä Musti ja Mirri Eastonissa, Hakaniemessä, Porttipuistossa ja Stockmannilla. 
 
 Olen ammattitutkinnon suorittanut koirahieroja, ja lisäksi kehitän jatkuvasti osaamistani erilaisten kurssien, luentojen ja seminaarien avulla. Hieronta on loistava lisä koiran kokonaisvaltaisen hyvinvoinnin tueksi. Jokainen koira on yksilö, ja hieronta toteutetaan yksilöllisten tarpeiden mukaan ja koiran ehdoilla. Minulle on tärkeää, että hieronta tapahtuu koiraa kuunnellen ja positiivisten kokemusten kautta. Ujommatkin kaverit ovat siis tervetulleita rentouttavaan hierontaan!
 
@@ -23,6 +23,6 @@ Voit katsoa kotikäyntien hinnaston sivulta [hinnasto](/hinnasto/) ja sopia hier
 
 Teen myös maanantaisin koirahierontoja koiraosteopaatti Hanna Kivisen toimitiloissa (Korppaanmäentie 27, Helsinki). Ajan sinne voi varata osoitteesta <https://vello.fi/sirjasimola/>. Lisätietoja esimerkiksi toimitiloihin saapumisesta ja pysäköinnistä voit katsoa koiraosteopaatti [Hanna Kivisen sivuilta](https://www.koiraosteopatia.fi/). 
 
-Yllämainittujen lisäksi minulle voi varata aikoja Mustiin ja Mirriin Eastonin, Hakaniemen, Porttipuiston ja Stockmannin toimipisteisiin osoitteessa <https://www.mustijamirri.fi/hyvinvointipalvelut-ajanvaraus>.
+Minulle voi varata aikoja Mustiin ja Mirriin Eastonin, Hakaniemen, Porttipuiston ja Stockmannin toimipisteisiin osoitteessa <https://www.mustijamirri.fi/hyvinvointipalvelut-ajanvaraus>.
 
 ![Musti ja Mirri Logo](/assets/images/Musti_ja_Mirri_kaksirivinen_PMS369_valkoiset_naamat.png)
