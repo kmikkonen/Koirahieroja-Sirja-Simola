@@ -149,7 +149,14 @@
 }
 
 .contact-list > li {
-  margin-bottom: 4px;
+  margin-bottom: 3px;
+  display: flex;
+  align-items: center;
+}
+
+.contact-list > li > a {
+  display: flex;
+  align-items: center;
 }
 
 .footer-col-wrapper {
