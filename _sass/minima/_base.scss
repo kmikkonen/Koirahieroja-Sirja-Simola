@@ -94,6 +94,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'Architects Daughter', cursive;
   font-weight: $base-font-weight;
 }
 
@@ -241,24 +242,36 @@ table {
   width: 100%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
-  border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid $grey-color;
+  border-radius: 10px;
   tr {
-    &:nth-child(even) {
-      background-color: lighten($grey-color-light, 6%);
+    &:nth-child(odd) {
+      background-color: lighten($grey-color-light,2%);
     }
   }
   th, td {
+    border-left: 1px solid $grey-color;
+    border-top: 1px solid $grey-color;
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
-    background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
-    border-bottom-color: darken($grey-color-light, 12%);
+    background-color: #9c5e8b;
+    color: white;
+    text-transform: uppercase;
+    font-weight: $base-font-weight;
+    border-top: none;
   }
-  td {
-    border: 1px solid $grey-color-light;
+  td:first-child, th:first-child {
+    border-left: none;
   }
+
+  th:first-child { border-radius: 10px 0 0 0; }
+  th:last-child { border-radius: 0 10px 0 0; }
+
+  tr:last-child td:first-child { border-radius: 0 0 0 10px; }
+  tr:last-child td:last-child { border-radius: 0 0 10px 0; }
 }
 
 address {

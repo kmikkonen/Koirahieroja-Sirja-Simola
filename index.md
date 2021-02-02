@@ -9,7 +9,11 @@ title: Esittely
 {% assign slider_images = "/assets/images/dola.jpg|/assets/images/bane.jpg|/assets/images/vegas.jpg" | split: "|" %}
 {% include image-slider.html images=slider_images %}
 
-Hei, olen Sirja Simola, ja teen koirahierontaa kotikäynteinä pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat) sekä Musti ja Mirri Eastonissa, Hakaniemessä, Porttipuistossa ja Stockmannilla. 
+## Kuka olen?
+
+Hei, olen Sirja Simola, ja teen koirahierontaa pääkaupunkiseudulla eri toimipisteissä. Toimipisteeni ovat Mustin ja Mirrin hyvinvointimyymälät Eastonissa, Hakaniemessä, Porttipuistossa ja Stockmannilla.
+Teen myös koirahierontaa Pikku Huopalahdessa koiraosteopaatti Hanna Kivisen toimitiloissa (Korppaanmäentie 27, Helsinki).
+Myös kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat). Huomioithan kuitenkin että kotikäyntiaikoja on erittäin rajallisesti, joten saatat joutua hieman odottamaan, mikäli toivot hierontaa kotikäyntinä.
 
 Olen ammattitutkinnon suorittanut koirahieroja, ja lisäksi kehitän jatkuvasti osaamistani erilaisten kurssien, luentojen ja seminaarien avulla. Hieronta on loistava lisä koiran kokonaisvaltaisen hyvinvoinnin tueksi. Jokainen koira on yksilö, ja hieronta toteutetaan yksilöllisten tarpeiden mukaan ja koiran ehdoilla. Minulle on tärkeää, että hieronta tapahtuu koiraa kuunnellen ja positiivisten kokemusten kautta. Ujommatkin kaverit ovat siis tervetulleita rentouttavaan hierontaan!
 
@@ -19,10 +23,12 @@ Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehok
 
 Tietoa koirahieronnasta löydät [Tietoa koirahieronnasta](/info/)-sivulta.
 
+## Ajanvaraus toimipisteisiin
+
 Voit katsoa kotikäyntien hinnaston sivulta [hinnasto](/hinnasto/) ja sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Facebook-sivujeni](https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}) kautta.
 
-Teen myös maanantaisin koirahierontoja koiraosteopaatti Hanna Kivisen toimitiloissa (Korppaanmäentie 27, Helsinki). Ajan sinne voi varata osoitteesta <https://vello.fi/sirjasimola/>. Lisätietoja esimerkiksi toimitiloihin saapumisesta ja pysäköinnistä voit katsoa koiraosteopaatti [Hanna Kivisen sivuilta](https://www.koiraosteopatia.fi/). 
+Pikku Huopalahteen koiraosteopaatti Hanna Kivisen toimitilaan voit varata minulle koirahieronta-aikoja osoitteesta <https://vello.fi/sirjasimola/>. Lisätietoja esimerkiksi toimitiloihin saapumisesta ja pysäköinnistä voit katsoa koiraosteopaatti [Hanna Kivisen sivuilta](https://www.koiraosteopatia.fi/). 
 
-Minulle voi varata aikoja Mustiin ja Mirriin Eastonin, Hakaniemen, Porttipuiston ja Stockmannin toimipisteisiin osoitteessa <https://www.mustijamirri.fi/hyvinvointipalvelut-ajanvaraus>.
+Ajanvaraus Mustiin ja Mirriin Eastonin, Hakaniemen, Porttipuiston ja Stockmannin toimipisteisiin löytyy osoitteesta <https://www.mustijamirri.fi/hyvinvointipalvelut-ajanvaraus>.
 
 ![Musti ja Mirri Logo](/assets/images/Musti_ja_Mirri_kaksirivinen_PMS369_valkoiset_naamat.png)

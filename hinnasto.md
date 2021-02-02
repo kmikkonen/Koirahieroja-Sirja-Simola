@@ -9,6 +9,7 @@ Alla oleva hinnasto koskee koirahierontoja kotikäyntinä sekä koiraosteopaatti
 Koirahieronnan kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat). 
 
 | Palvelu | Hinta |
+|---------|-------|
 | Hieronta | **50€/koira** |
 | Perheen seuraavat koirat samalla käynnillä | **40€/koira** |
 | 30min kartoitus/totutuskäynti | **30€/koira** |

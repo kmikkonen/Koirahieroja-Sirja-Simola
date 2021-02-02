@@ -139,6 +139,7 @@
 
 .footer-heading {
   @include relative-font-size(1.125);
+  font-family: $base-font-family;
   margin-bottom: $spacing-unit / 2;
 }
 
@@ -253,6 +254,10 @@
   margin-bottom: 15px;
 }
 
+.info-box * {
+  text-align: center;
+}
+
 .info-box-header {
   background-color: #9c5e8b;
   padding: 10px;
@@ -263,11 +268,17 @@
   margin: 0;
 }
 
+.info-box-header-title {
+  color: white;
+  text-transform: uppercase;
+}
+
 .info-box-content {
   padding: 10px;
 
   ul {
     margin-bottom: 0;
+    list-style: none;
   }
 }
 
