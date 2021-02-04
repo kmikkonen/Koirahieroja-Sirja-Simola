@@ -19,6 +19,10 @@ Olen ammattitutkinnon suorittanut koirahieroja, ja lisäksi kehitän jatkuvasti 
 
 Minulla on ollut koiria koko elämäni, ja koirien kanssa touhuaminen ja harrastaminen on ollut minulle tärkeää lapsesta saakka. Tällä hetkellä minua ilahduttavat kotona kolmen koiran lauma, chinchillat sekä kaksi kuningaspytonia. Koirahieronnan ohella minua kiinnostavat erityisesti koirien koulutus, koiran lajityypillisten tarpeiden huomioiminen arkielämässä, sekä luonnonmukainen ruokinta.
 
+Omat koirani ovat jo eläkkeellä aktiivisesta harrastustoiminnasta. Olemme aiemmin harrastaneet pääasiassa agilityä ja koiratanssia, sekä tutustuneet moniin muihinkin harrastuslajeihin.
+
+Lemmikkieni kanssa puuhastelun lisäksi harrastan itse crossfittia ja kuntonyrkkeilyä, sekä kuulun WWF:n öljyntorjuntajoukkoihin.
+
 Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehokas ja turvallinen HandyCure-hoitava laser.
 
 Tietoa koirahieronnasta löydät [Tietoa koirahieronnasta](/info/)-sivulta.
