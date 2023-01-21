@@ -10,11 +10,11 @@ Koirahieronnan kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, 
 
 | Palvelu | Hinta |
 |---------|-------|
-| Hieronta | **50€/koira** |
-| Perheen seuraavat koirat samalla käynnillä | **40€/koira** |
-| 30min kartoitus/totutuskäynti | **30€/koira** |
+| Hieronta | **60€/koira** |
+| Perheen seuraavat koirat samalla käynnillä | **50€/koira** |
+| 30min kartoitus/totutuskäynti | **38€/koira** |
 
-Maksutapoina käyvät yleisimmät pankki- ja luottokortit sekä käteinen.
+Hinnat voimassa 1.1.2023 alkaen. Maksutapoina käyvät yleisimmät pankki- ja luottokortit sekä käteinen.
 
 Voit sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Facebook-sivujeni](https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}) kautta. Voit varata Korppaanmäentien toimitilassa tehtävän hieronnan osoitteesta <https://vello.fi/sirjasimola/>.
 
@@ -25,4 +25,5 @@ Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehok
 Tmi Sirja Simola pidättää oikeuden muutoksiin.
 
 <br/>
-![Hinnasto kuva](/assets/images/hinnasto.jpg "Hinnasto")
+<!-- TODO: Update -->
+<!--![Hinnasto kuva](/assets/images/hinnasto.jpg "Hinnasto")-->
