@@ -270,7 +270,8 @@
 
 .info-box-header-title {
   color: white;
-  text-transform: uppercase;
+  //text-transform: uppercase;
+  white-space: pre-line;
 }
 
 .info-box-content {
