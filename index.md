@@ -17,8 +17,7 @@ Myös kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Ka
 
 Olen ammattitutkinnon suorittanut koirahieroja, ja lisäksi kehitän jatkuvasti osaamistani erilaisten kurssien, luentojen ja seminaarien avulla. Hieronta on loistava lisä koiran kokonaisvaltaisen hyvinvoinnin tueksi. Jokainen koira on yksilö, ja hieronta toteutetaan yksilöllisten tarpeiden mukaan ja koiran ehdoilla. Minulle on tärkeää, että hieronta tapahtuu koiraa kuunnellen ja positiivisten kokemusten kautta. Ujommatkin kaverit ovat siis tervetulleita rentouttavaan hierontaan!
 
-Osaamiseeni kuuluu hieronnan lisäksi faskiakäsittely, venytykset, nivelten mobilisoinnit, lämpöhoito, laserhoito sekä erilaiset jumppaliikkeet.
-Teen yhteistyötä muiden ammattilaisten kanssa ja ohjaan teidät eteenpäin, mikäli koirasi tarvitsee toisen ammattilaisen apua.
+Osaamiseeni kuuluu hieronnan lisäksi faskiakäsittely, venytykset, nivelten mobilisoinnit, lämpöhoito, laserhoito sekä erilaiset jumppaliikkeet. Käytän näitä koiran yksilöllisten tarpeiden mukaan hieronnan tukena. Teen yhteistyötä muiden ammattilaisten kanssa ja ohjaan teidät eteenpäin, mikäli koirasi tarvitsee toisen ammattilaisen apua.
 
 Minulla on ollut koiria koko elämäni, ja koirien kanssa touhuaminen ja harrastaminen on ollut minulle tärkeää lapsesta saakka. Tällä hetkellä minua ilahduttavat kotona seniorikoirat, chinchillat sekä kuningaspytonit. Koirahieronnan ohella minua kiinnostavat erityisesti koirien koulutus, koiran lajityypillisten tarpeiden huomioiminen arkielämässä, sekä luonnonmukainen ruokinta.
 
