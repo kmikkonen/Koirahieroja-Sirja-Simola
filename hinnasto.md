@@ -2,7 +2,7 @@
 layout: page
 title: Hinnasto
 permalink: /hinnasto/
-order: 3
+order: 4
 ---
 
 Alla oleva hinnasto koskee koirahierontoja kotikäyntinä sekä koiraosteopaatti Hanna Kivisen tiloissa (Korppaanmäentie 27, Helsinki) tekemiäni hierontoja.

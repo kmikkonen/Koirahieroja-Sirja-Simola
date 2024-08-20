@@ -2,7 +2,7 @@
 layout: page
 title: Ajanvaraus
 permalink: /ajanvaraus/
-order: 2
+order: 3
 ---
 
 Voit katsoa kotikäyntien hinnaston sivulta [hinnasto](/hinnasto/) ja sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Facebook-sivujeni](https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}) kautta.

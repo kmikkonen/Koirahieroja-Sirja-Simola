@@ -2,7 +2,7 @@
 layout: page
 title: Tietoa koirahieronnasta
 permalink: /info/
-order: 4
+order: 5
 ---
 
 ## Hieronnan hyödyt

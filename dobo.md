@@ -2,7 +2,7 @@
 layout: page
 title: Dobo
 permalink: /dobo/
-order: 5
+order: 6
 ---
 
 Dobo on koiran ja omistajan hauska yhteinen harrastus, jossa jumpataan ja voimistellaan dobo-pallojen, tasapainotyynyjen ja puolipallojen avulla. Dobossa sekä koira että omistaja pääsevät jumppaamaan, sillä liikkeitä tehdään niin yhdessä kuin erikseenkin.

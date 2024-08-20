@@ -2,7 +2,7 @@
 layout: slider-page
 title: Esittely
 permalink: /esittely/
-order: 6
+order: 2
 ---
 
 {% assign slider_images = "/assets/images/dola.jpg|/assets/images/bane.jpg|/assets/images/vegas.jpg" | split: "|" %}
