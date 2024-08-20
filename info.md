@@ -2,6 +2,7 @@
 layout: page
 title: Tietoa koirahieronnasta
 permalink: /info/
+order: 4
 ---
 
 ## Hieronnan hyödyt
@@ -51,3 +52,5 @@ Koirahierontaa kannattaa käyttää myös ennaltaehkäisevänä hoitomuotona, va
 </div>
 
 Jos koirallasi on jokin sairaus tai lääkitys, joka voisi olla hieronnalle esteenä, konsultoithan koiraasi hoitanutta eläinlääkäriä kysyäksesi, onko hieronta sinun koirallesi sopivaa. Kerrothan myös aikaa varatessasi, mikäli koirallasi on sairauksia tai lääkityksiä. Jos koira ontuu, tulee ontumisen syy selvittää eläinlääkärissä ennen hierontaa.
+
+Ajanvarausohjeet hierontaan löydät [Ajanvaraus](/ajanvaraus/)-sivulta.

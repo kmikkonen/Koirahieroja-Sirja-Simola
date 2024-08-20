@@ -54,6 +54,7 @@
 .site-nav {
   float: right;
   line-height: $spacing-unit * 2.5;
+  z-index: 100;
 
   .nav-trigger {
       display: none;
@@ -73,12 +74,13 @@
     }
   }
 
-  @include media-query($on-laptop) {
+  //@include media-query($on-laptop) {
+    @include media-query(4200px) {
     position: absolute;
     top: 20px;
-    right: $spacing-unit / 2;
-    background-color: #804d72;
-    border: 1px solid $grey-color;
+    right: $spacing-unit * 2;
+    background-color: #9c5e8b;
+    border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: left;
 
@@ -101,7 +103,7 @@
       text-align: center;
 
       > svg {
-        fill: $grey-color-dark;
+        fill: $grey-color-light;
       }
     }
 
@@ -124,6 +126,10 @@
       }
       margin-left: 5px;
     }
+  }
+
+  @include media-query($on-laptop) {
+    right: $spacing-unit / 2;
   }
 }
 

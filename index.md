@@ -4,6 +4,7 @@
 
 layout: slider-page
 title: Esittely
+order: 1
 ---
 
 {% assign slider_images = "/assets/images/dola.jpg|/assets/images/bane.jpg|/assets/images/vegas.jpg" | split: "|" %}
@@ -27,14 +28,4 @@ Lemmikkieni kanssa puuhastelun lisäksi harrastan itse crossfittia ja kuntonyrkk
 
 Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehokas ja turvallinen HandyCure-hoitava laser.
 
-Tietoa koirahieronnasta löydät [Tietoa koirahieronnasta](/info/)-sivulta.
-
-## Ajanvaraus toimipisteisiin
-
-Voit katsoa kotikäyntien hinnaston sivulta [hinnasto](/hinnasto/) ja sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Facebook-sivujeni](https://www.facebook.com/{{ site.facebook_username| cgi_escape | escape }}) kautta.
-
-Pikku Huopalahteen koiraosteopaatti Hanna Kivisen toimitilaan voit varata minulle koirahieronta-aikoja osoitteesta <https://vello.fi/sirjasimola/>. Lisätietoja esimerkiksi toimitiloihin saapumisesta ja pysäköinnistä voit katsoa koiraosteopaatti [Hanna Kivisen sivuilta](https://www.koiraosteopatia.fi/). 
-
-Ajanvaraus Mustiin ja Mirriin Eastonin, Hakaniemen, Porttipuiston ja Stockmannin toimipisteisiin löytyy osoitteesta <https://www.mustijamirri.fi/hyvinvointipalvelut-ajanvaraus>.
-
-![Musti ja Mirri Logo](/assets/images/Musti_ja_Mirri_kaksirivinen_PMS369_valkoiset_naamat.png)
+Tietoa koirahieronnasta löydät [Tietoa koirahieronnasta](/info/)-sivulta. Ajanvarausohjeet löydät [Ajanvaraus](/ajanvaraus/)-sivulta.
