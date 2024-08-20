@@ -17,7 +17,7 @@ Osaamiseeni kuuluu hieronnan lisäksi faskiakäsittely, venytykset, nivelten mob
 Minulla on ollut koiria koko elämäni, ja koirien kanssa touhuaminen ja harrastaminen on ollut minulle tärkeää lapsesta saakka. Olen omistanut koiria monista eri roturyhmistä, ja jokaiselta koiraltani saanut oppia uutta. Tällä hetkellä minua ilahduttaa kotona vikkelä vinttikoiranalku Daisy. Lisäksi perheen lemmikeihin lukeutuvat chinchillat sekä kuningaspytonit. Koirahieronnan ohella minua kiinnostavat erityisesti koirien koulutus, koiran lajityypillisten tarpeiden huomioiminen arkielämässä, sekä luonnonmukainen ruokinta.
 
 
-Olen harrastanut omien koirieni kanssa monia eri harrastuslajeja, pääasiassa agilityä, rally-tokoa sekä näyttelyitä. Tärkein tehtävä koirillani on kuitenkin aina ollut ja on jatkossakin perheenjäsenenä, sohvaperunana ja lenkkitoverina, enmekä ole kovasti kilpakenttiä kuluttaneet.
+Olen harrastanut omien koirieni kanssa monia eri harrastuslajeja, pääasiassa agilityä, rally-tokoa sekä näyttelyitä. Tärkein tehtävä koirillani on kuitenkin aina ollut ja on jatkossakin perheenjäsenenä, sohvaperunana ja lenkkitoverina, emmekä ole kovasti kilpakenttiä kuluttaneet.
 
 Lemmikkieni kanssa puuhastelun lisäksi harrastan itse crossfittia ja kuntonyrkkeilyä, sekä kuulun WWF:n öljyntorjuntajoukkoihin, jossa olen erikoistunut öljyyntyneiden eläinten hoitoon ja kuntoutukseen.
 
