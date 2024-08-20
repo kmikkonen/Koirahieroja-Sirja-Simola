@@ -2,30 +2,37 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: slider-page
-title: Esittely
+layout: page
+title: Koirahieronta ja hyvinvointipalvelut
 order: 1
 ---
 
-{% assign slider_images = "/assets/images/dola.jpg|/assets/images/bane.jpg|/assets/images/vegas.jpg" | split: "|" %}
-{% include image-slider.html images=slider_images %}
+Tervetuloa! Tarjoan monipuolisia koirahierontapalveluita pääkaupunkiseudulla ammattitaidolla ja vuosien kokemuksella.
+Palveluni auttavat parantamaan koirasi elämänlaatua, edistämään toipumista ja tukemaan kokonaisvaltaista hyvinvointia.
 
-## Kuka olen?
+Palveluni perustuvat ammattitaitoon ja koiran yksilöllisten tarpeiden huomioimiseen. Hieronta toteutetaan aina koiran ehdoilla, positiivisia kokemuksia vaalien. Teen yhteistyötä muiden alan ammattilaisten kanssa, ja tarvittaessa ohjaan sinut toisen asiantuntijan luo.
 
-Hei, olen Sirja Simola, ja teen koirahierontaa pääkaupunkiseudulla eri toimipisteissä. Toimipisteeni ovat Mustin ja Mirrin hyvinvointimyymälät Eastonissa, Hakaniemessä, Porttipuistossa ja Stockmannilla.
-Teen myös koirahierontaa Pikku Huopalahdessa koiraosteopaatti Hanna Kivisen toimitiloissa (Korppaanmäentie 27, Helsinki).
-Myös kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat). Huomioithan kuitenkin että kotikäyntiaikoja on erittäin rajallisesti, joten saatat joutua hieman odottamaan, mikäli toivot hierontaa kotikäyntinä.
+Tutustu minuun tarkemmin [täällä](/esittely/).
 
-Olen ammattitutkinnon suorittanut koirahieroja ja eläintenhoitaja. Kehitän lisäksi jatkuvasti osaamistani erilaisten kurssien, luentojen ja seminaarien avulla. Hieronta on loistava lisä koiran kokonaisvaltaisen hyvinvoinnin tueksi. Jokainen koira on yksilö, ja hieronta toteutetaan yksilöllisten tarpeiden mukaan ja koiran ehdoilla. Minulle on tärkeää, että hieronta tapahtuu koiraa kuunnellen ja positiivisten kokemusten kautta. Ujommatkin kaverit ovat siis tervetulleita rentouttavaan hierontaan!
+<div class="info-box">
+<div class="info-box-header">
+<h3 class="info-box-header-title">Palvelut</h3>
+</div>
+<div class="info-box-content left-align">
+<li>Koirahieronta: Rentouttava ja hoitava hieronta tukee koirasi lihaksiston ja nivelten terveyttä. Jokainen hoito suunnitellaan koirasi yksilöllisten tarpeiden mukaan.</li>
+<li>Faskiakäsittely: Tämä tehokas käsittelymenetelmä vapauttaa lihaskalvot jännityksistä ja parantaa liikkuvuutta.</li>
+<li>Venytykset ja Nivelten Mobilisointi: Tehostaa liikkuvuutta ja vähentää kehon jännitystiloja.</li>
+<li>Lämpöhoito ja Laserhoito: Käytän HandyCure-hoitavaa laseria ja lämpöhoitoa lievittämään kipuja ja edistämään koiran toipumista.</li>
+<li>Jumppaliikkeet: Ohjaan koirallesi sopivia jumppaliikkeitä, jotka tukevat lihaskuntoa ja liikkuvuutta.</li>
+</div>
+</div>
 
-Osaamiseeni kuuluu hieronnan lisäksi faskiakäsittely, venytykset, nivelten mobilisoinnit, lämpöhoito, laserhoito sekä erilaiset jumppaliikkeet. Käytän näitä koiran yksilöllisten tarpeiden mukaan hieronnan tukena. Teen yhteistyötä muiden ammattilaisten kanssa ja ohjaan teidät eteenpäin, mikäli koirasi tarvitsee toisen ammattilaisen apua.
+## Toimipisteet
+- Musti ja Mirri Hyvinvointimyymälät: Tarjoan hierontapalveluita Hakaniemessä, Porttipuistossa ja Stockmannilla.
+- Pikku Huopalahti (Hanna Kivisen toimitilat): Hierontapalvelut Helsingin Korppaanmäentien tiloissa.
+- Tuusulassa Venyvän koiran tiloissa: Tarjoan hierontapalveluita, vesiterapiaa ja Dobo-ohjausta.
+- Kotikäynnit: Tarjoan kotikäyntipalveluita rajatusti pääkaupunkiseudulla, mukaan lukien Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpää.
 
-Minulla on ollut koiria koko elämäni, ja koirien kanssa touhuaminen ja harrastaminen on ollut minulle tärkeää lapsesta saakka. Tällä hetkellä minua ilahduttavat kotona seniorikoirat, chinchillat sekä kuningaspytonit. Koirahieronnan ohella minua kiinnostavat erityisesti koirien koulutus, koiran lajityypillisten tarpeiden huomioiminen arkielämässä, sekä luonnonmukainen ruokinta.
 
-Omat koirani ovat jo eläkkeellä aktiivisesta harrastustoiminnasta. Olemme aiemmin harrastaneet pääasiassa agilityä ja koiratanssia, sekä tutustuneet moniin muihinkin harrastuslajeihin.
-
-Lemmikkieni kanssa puuhastelun lisäksi harrastan itse crossfittia ja kuntonyrkkeilyä, sekä kuulun WWF:n öljyntorjuntajoukkoihin.
-
-Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehokas ja turvallinen HandyCure-hoitava laser.
-
-Tietoa koirahieronnasta löydät [Tietoa koirahieronnasta](/info/)-sivulta. Ajanvarausohjeet löydät [Ajanvaraus](/ajanvaraus/)-sivulta.
+## Lisätietoja ja ajanvaraus
+Tutustu tarkemmin koirahierontaan ja hyvinvointipalveluihin tai varaa aika [ajanvaraus](/ajanvaraus/) -sivun kautta.
