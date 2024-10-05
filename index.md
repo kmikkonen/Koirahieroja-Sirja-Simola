@@ -7,6 +7,8 @@ title: Koirahieronta ja hyvinvointipalvelut
 order: 1
 ---
 
+![Sirja ja englanninvinttikoira Daisy](/assets/images/daisy.jpg)
+
 Tervetuloa! Tarjoan monipuolisia koirahierontapalveluita pääkaupunkiseudulla ammattitaidolla ja vuosien kokemuksella.
 Palveluni auttavat parantamaan koirasi elämänlaatua, edistämään toipumista ja tukemaan kokonaisvaltaista hyvinvointia.
 
