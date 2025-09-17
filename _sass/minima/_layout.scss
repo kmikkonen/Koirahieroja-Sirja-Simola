@@ -291,6 +291,10 @@
     margin-bottom: 0;
     list-style: none;
   }
+
+  ul.with-bullets {
+    list-style: disc;
+  }
 }
 
 .info-box-content.left-align * {

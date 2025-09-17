@@ -21,11 +21,13 @@ Tutustu minuun tarkemmin [täällä](/esittely/).
 <h3 class="info-box-header-title">Palvelut</h3>
 </div>
 <div class="info-box-content left-align">
+<ul class="with-bullets">
 <li>Koirahieronta: Rentouttava ja hoitava hieronta tukee koirasi lihaksiston ja nivelten terveyttä. Jokainen hoito suunnitellaan koirasi yksilöllisten tarpeiden mukaan.</li>
 <li>Faskiakäsittely: Tämä tehokas käsittelymenetelmä vapauttaa lihaskalvot jännityksistä ja parantaa liikkuvuutta.</li>
 <li>Venytykset ja nivelten mobilisointi: Tehostaa liikkuvuutta ja vähentää kehon jännitystiloja.</li>
 <li>Lämpöhoito ja laserhoito: Käytän HandyCure-hoitavaa laseria ja lämpöhoitoa lievittämään kipuja ja edistämään koiran toipumista.</li>
 <li>Jumppaliikkeet: Ohjaan koirallesi sopivia jumppaliikkeitä, jotka tukevat lihaskuntoa ja liikkuvuutta.</li>
+</ul>
 </div>
 </div>
 
