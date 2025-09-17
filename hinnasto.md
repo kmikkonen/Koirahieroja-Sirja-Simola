@@ -5,7 +5,7 @@ permalink: /hinnasto/
 order: 4
 ---
 
-Alla oleva hinnasto koskee koirahierontoja kotikäyntinä sekä koiraosteopaatti Hanna Kivisen tiloissa (Korppaanmäentie 30, Helsinki) tekemiäni hierontoja.
+Allaoleva hinnasto koskee kotikäyntejä toimialueellani. Toimipistekohtaisen hinnaston löydät kyseisen toimipisteen ajanvarauksesta.
 
 Koirahieronnan kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat). 
 
@@ -21,7 +21,7 @@ Voit sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Face
 
 Jos koirallasi on jokin sairaus, konsultoithan ensin eläinlääkäriä, ettei hieronnalle ole estettä. Alle vuorokauden varoitusajalla peruutetuista hieronnoista veloitan 50% hinnasta. 
 
-Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehokas ja turvallinen HandyCure-hoitava laser.
+Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehokas ja turvallinen PowerCure Pro-laser.
 
 Tmi Sirja Simola pidättää oikeuden muutoksiin.
 
