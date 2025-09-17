@@ -5,7 +5,7 @@ permalink: /hinnasto/
 order: 4
 ---
 
-Alla oleva hinnasto koskee koirahierontoja kotikäyntinä sekä koiraosteopaatti Hanna Kivisen tiloissa (Korppaanmäentie 27, Helsinki) tekemiäni hierontoja.
+Alla oleva hinnasto koskee koirahierontoja kotikäyntinä sekä koiraosteopaatti Hanna Kivisen tiloissa (Korppaanmäentie 30, Helsinki) tekemiäni hierontoja.
 
 Koirahieronnan kotikäynnit onnistuvat pääkaupunkiseudulla (Helsinki, Vantaa, Espoo, Kauniainen, Tuusula, Kerava ja Järvenpään eteläosat). 
 
