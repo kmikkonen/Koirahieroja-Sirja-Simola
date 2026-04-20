@@ -21,7 +21,7 @@ Voit sopia hieronnasta joko [sähköpostitse](mailto:{{ site.email }}) tai [Face
 
 Jos koirallasi on jokin sairaus, konsultoithan ensin eläinlääkäriä, ettei hieronnalle ole estettä. Alle vuorokauden varoitusajalla peruutetuista hieronnoista veloitan 50% hinnasta. 
 
-Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehokas ja turvallinen PowerCure Pro-laser.
+Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehokas 3B luokan laser PowerCure Pro.
 
 Tmi Sirja Simola pidättää oikeuden muutoksiin.
 

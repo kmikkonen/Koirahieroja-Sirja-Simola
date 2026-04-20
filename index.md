@@ -25,7 +25,7 @@ Tutustu minuun tarkemmin [täällä](/esittely/).
 <li>Koirahieronta: Rentouttava ja hoitava hieronta tukee koirasi lihaksiston ja nivelten terveyttä. Jokainen hoito suunnitellaan koirasi yksilöllisten tarpeiden mukaan.</li>
 <li>Faskiakäsittely: Tämä tehokas käsittelymenetelmä vapauttaa lihaskalvot jännityksistä ja parantaa liikkuvuutta.</li>
 <li>Venytykset ja nivelten mobilisointi: Tehostaa liikkuvuutta ja vähentää kehon jännitystiloja.</li>
-<li>Lämpöhoito ja laserhoito: Käytän HandyCure-hoitavaa laseria ja lämpöhoitoa lievittämään kipuja ja edistämään koiran toipumista.</li>
+<li>Lämpöhoito ja laserhoito: Käytän PowerCure Pro -laseria ja lämpöhoitoa lievittämään kipuja ja edistämään koiran toipumista.</li>
 <li>Jumppaliikkeet: Ohjaan koirallesi sopivia jumppaliikkeitä, jotka tukevat lihaskuntoa ja liikkuvuutta.</li>
 </ul>
 </div>

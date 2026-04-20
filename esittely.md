@@ -21,6 +21,6 @@ Olen harrastanut omien koirieni kanssa monia eri harrastuslajeja, pääasiassa a
 
 Lemmikkieni kanssa puuhastelun lisäksi harrastan itse crossfittia ja kuntonyrkkeilyä, sekä kuulun WWF:n öljyntorjuntajoukkoihin, jossa olen erikoistunut öljyyntyneiden eläinten hoitoon ja kuntoutukseen.
 
-Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehokas ja turvallinen HandyCure-hoitava laser.
+Kotikäynneillä ja Korppaanmäentien toimitiloissa käytössäni on myös tehokas tehokas 3B luokan laser PowerCure Pro.
 
 Tietoa koirahieronnasta löydät [Tietoa koirahieronnasta](/info/)-sivulta. Ajanvarausohjeet löydät [Ajanvaraus](/ajanvaraus/)-sivulta.
